@@ -1,4 +1,5 @@
-## Olá! Bem vindo ao meu perfil
+## Olá! Bem vindo ao meu perfil  
+Me chamo Matheus Luz e atualmente estudo desenvolvimento de software na Cubos Academy tendo como objetivo me tornar um desenvolvedor júnior.
  <div>
   <a href="https://github.com/mattheusluz">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mattheusluz&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
