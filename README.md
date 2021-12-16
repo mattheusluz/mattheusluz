@@ -21,5 +21,4 @@ I'm currently studying software development at Cubos Academy.
 <div> 
   <a href="https://www.linkedin.com/in/mattheusluz/" target="_blank"><img src="https://img.shields.io/badge/-Matheus_Luz-05122A?style=flat&logo=linkedin" target="_blank"></a> 
     <a href = "mailto:mattheusluzz@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-mattheusluzz@gmail.com-FF0000?style=flat&labelColor=FF0000&logo=gmail&logoColor=white&link=mailto:<mattheusluzz@gmail.com>" target="_blank"></a>
-  <a href="https://www.instagram.com/mthsluz/" target="_blank"><img src="https://img.shields.io/badge/-Matheus_Luz-%23E4405F?style=flat&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
