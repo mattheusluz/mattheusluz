@@ -1,5 +1,5 @@
 ## Olá 👋, sou o Matheus
-Desenvolvedor de software formado pela Cubos Academy, buscando minha primeira oportunidade para trabalhar na área.
+Desenvolvedor fullstack.
  
  ## 🛠 &nbsp;Tech Stack
 
